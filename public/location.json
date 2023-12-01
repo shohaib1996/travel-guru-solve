@@ -1,0 +1,146 @@
+[
+    {
+        "id": "1",
+        "title": "Stunning Seaside Retreat in Cox's Bazar",
+        "description": "A luxurious beachfront apartment with breathtaking ocean views. Perfect for a relaxing getaway. 3 bedrooms, 3 baths.",
+        "location": "Cox's Bazar",
+        "amenities": {
+          "Wifi": true,
+          "Air conditioning": true,
+          "Kitchen": true
+        },
+        "cancellation_policy": "Flexible",
+        "rating": 4.9,
+        "num_reviews": 20,
+        "price_per_night": 150,
+        "image_url": "/public/images/Rectangle 26.png"
+      },
+      {
+        "id": "2",
+        "title": "Cozy Beachfront Condo in Cox's Bazar",
+        "description": "A comfortable condo just steps away from the sandy beach. Ideal for family vacations. 2 bedrooms, 2 baths.",
+        "location": "Cox's Bazar",
+        "amenities": {
+          "Wifi": true,
+          "Air conditioning": true,
+          "Kitchen": true
+        },
+        "cancellation_policy": "Moderate",
+        "rating": 4.8,
+        "num_reviews": 15,
+        "price_per_night": 100,
+        "image_url": "/images/Rectangle 27.png"
+      },
+      {
+        "id": "3",
+        "title": "Seaview Penthouse in Cox's Bazar",
+        "description": "An elegant penthouse offering panoramic views of the Bay of Bengal. Great for a romantic escape. 1 bedroom, 1 bath.",
+        "location": "Cox's Bazar",
+        "amenities": {
+          "Wifi": true,
+          "Air conditioning": true,
+          "Kitchen": true
+        },
+        "cancellation_policy": "Strict",
+        "rating": 4.7,
+        "num_reviews": 10,
+        "price_per_night": 80,
+        "image_url": "/images/Rectangle 28.png"
+      },
+      {
+        "id": "4",
+        "title": "Tranquil Tea Estate Cottage in Sreemangal",
+        "description": "A serene cottage nestled in a tea estate, surrounded by lush greenery. Perfect for nature lovers. 2 bedrooms, 2 baths.",
+        "location": "Sreemangal",
+        "amenities": {
+          "Wifi": true,
+          "Air conditioning": false,
+          "Kitchen": true
+        },
+        "cancellation_policy": "Flexible",
+        "rating": 4.8,
+        "num_reviews": 12,
+        "price_per_night": 90,
+        "image_url": "/images/Rectangle 28.png"
+      },
+      {
+        "id": "5",
+        "title": "Cozy Rainforest Cabin in Sreemangal",
+        "description": "A charming cabin surrounded by the rainforest, offering a peaceful retreat. 1 bedroom, 1 bath.",
+        "location": "Sreemangal",
+        "amenities": {
+          "Wifi": true,
+          "Air conditioning": true,
+          "Kitchen": false
+        },
+        "cancellation_policy": "Moderate",
+        "rating": 4.6,
+        "num_reviews": 8,
+        "price_per_night": 70,
+        "image_url": "/images/Rectangle 26.png"
+      },
+      {
+        "id": "6",
+        "title": "Spacious Guesthouse in Sreemangal",
+        "description": "A large guesthouse with a garden, perfect for groups and family gatherings. 4 bedrooms, 3 baths.",
+        "location": "Sreemangal",
+        "amenities": {
+          "Wifi": true,
+          "Air conditioning": true,
+          "Kitchen": true
+        },
+        "cancellation_policy": "Strict",
+        "rating": 4.7,
+        "num_reviews": 15,
+        "price_per_night": 120,
+        "image_url": "/images/Rectangle 27.png"
+      },
+      {
+        "id": "7",
+        "title": "Mountain View Chalet in Sajek Valley",
+        "description": "A cozy chalet with stunning mountain views in Sajek Valley. Ideal for a peaceful getaway. 2 bedrooms, 1 bath.",
+        "location": "Sajek",
+        "amenities": {
+          "Wifi": true,
+          "Air conditioning": false,
+          "Kitchen": true
+        },
+        "cancellation_policy": "Flexible",
+        "rating": 4.9,
+        "num_reviews": 18,
+        "price_per_night": 110,
+        "image_url": "/images/Rectangle 27.png"
+      },
+      {
+        "id": "8",
+        "title": "Remote Hilltop Retreat in Sajek",
+        "description": "A remote hilltop retreat offering tranquility and seclusion in Sajek. 1 bedroom, 1 bath.",
+        "location": "Sajek",
+        "amenities": {
+          "Wifi": true,
+          "Air conditioning": false,
+          "Kitchen": false
+        },
+        "cancellation_policy": "Moderate",
+        "rating": 4.7,
+        "num_reviews": 10,
+        "price_per_night": 75,
+        "image_url": "/images/Rectangle 26.png"
+      },
+      {
+        "id": "9",
+        "title": "Riverside Bungalow in Sajek",
+        "description": "A charming riverside bungalow overlooking the river in Sajek. Perfect for a romantic escape. 1 bedroom, 1 bath.",
+        "location": "Sajek",
+        "amenities": {
+          "Wifi": true,
+          "Air conditioning": true,
+          "Kitchen": true
+        },
+        "cancellation_policy": "Strict",
+        "rating": 4.8,
+        "num_reviews": 14,
+        "price_per_night": 85,
+        "image_url": "/images/Rectangle 28.png"
+      }
+  ]
