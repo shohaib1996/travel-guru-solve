@@ -1,0 +1,21 @@
+[
+    {
+      "id": "slide1",
+      "title": "Sajek",
+      "imageSrc": "/images/Sajek.png",
+      "link": "/booking1"
+    },
+    {
+      "id": "slide2",
+      "title": "Sreemongol",
+      "imageSrc": "/images/Sreemongol.png",
+      "link": "/booking2"
+    },
+    {
+      "id": "slide3",
+      "title": "Sundorbon",
+      "imageSrc": "/images/sundorbon.png",
+      "link": "/booking3"
+    }
+  ]
+  
